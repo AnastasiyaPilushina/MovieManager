@@ -14,3 +14,4 @@ public class PurchaseItem {
     private int productPrice;
     private int count;
 }
+
