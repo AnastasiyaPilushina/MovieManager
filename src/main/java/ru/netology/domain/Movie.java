@@ -13,3 +13,10 @@ public class Movie {
     private String genre;
 
 }
+    private int productId;
+    private String productName;
+    private int productPrice;
+    private int count;
+}
+
+
